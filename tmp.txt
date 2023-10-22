@@ -1,0 +1,82 @@
+<div class="txbox">
+  <div class="swiper vtx vt1" dir="rtl">
+    <div class="swiper-wrapper" style="transition-timing-function: linear !important;">
+      <div class="swiper-slide"><img img src="images/games/1.png"></div>
+      <div class="swiper-slide"><img img src="images/games/2.png"></div>
+      <div class="swiper-slide"><img img src="images/games/3.png"></div>
+      <div class="swiper-slide"><img img src="images/games/4.png"></div>
+      <div class="swiper-slide"><img img src="images/games/1.png"></div>
+      <div class="swiper-slide"><img img src="images/games/2.png"></div>
+      <div class="swiper-slide"><img img src="images/games/3.png"></div>
+      <div class="swiper-slide"><img img src="images/games/4.png"></div>
+      <div class="swiper-slide"><img img src="images/games/1.png"></div>
+      <div class="swiper-slide"><img img src="images/games/2.png"></div>
+      <div class="swiper-slide"><img img src="images/games/3.png"></div>
+      <div class="swiper-slide"><img img src="images/games/4.png"></div>
+    </div>
+  </div>
+  <div class="swiper vtx vt2">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img img src="images/games/5.png"></div>
+      <div class="swiper-slide"><img img src="images/games/6.png"></div>
+      <div class="swiper-slide"><img img src="images/games/7.png"></div>
+      <div class="swiper-slide"><img img src="images/games/8.png"></div>
+      <div class="swiper-slide"><img img src="images/games/5.png"></div>
+      <div class="swiper-slide"><img img src="images/games/6.png"></div>
+      <div class="swiper-slide"><img img src="images/games/7.png"></div>
+      <div class="swiper-slide"><img img src="images/games/8.png"></div>
+      <div class="swiper-slide"><img img src="images/games/5.png"></div>
+      <div class="swiper-slide"><img img src="images/games/6.png"></div>
+      <div class="swiper-slide"><img img src="images/games/7.png"></div>
+      <div class="swiper-slide"><img img src="images/games/8.png"></div>
+    </div>
+  </div>
+  <div class="swiper vtx vt3" dir="rtl">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img img src="images/games/9.png"></div>
+      <div class="swiper-slide"><img img src="images/games/10.png"></div>
+      <div class="swiper-slide"><img img src="images/games/11.png"></div>
+      <div class="swiper-slide"><img img src="images/games/12.png"></div>
+      <div class="swiper-slide"><img img src="images/games/9.png"></div>
+      <div class="swiper-slide"><img img src="images/games/10.png"></div>
+      <div class="swiper-slide"><img img src="images/games/11.png"></div>
+      <div class="swiper-slide"><img img src="images/games/12.png"></div>
+      <div class="swiper-slide"><img img src="images/games/9.png"></div>
+      <div class="swiper-slide"><img img src="images/games/10.png"></div>
+      <div class="swiper-slide"><img img src="images/games/11.png"></div>
+      <div class="swiper-slide"><img img src="images/games/12.png"></div>
+    </div>
+  </div>
+  <div class="swiper vtx vt4">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img img src="images/games/13.png"></div>
+      <div class="swiper-slide"><img img src="images/games/14.png"></div>
+      <div class="swiper-slide"><img img src="images/games/15.png"></div>
+      <div class="swiper-slide"><img img src="images/games/16.png"></div>
+      <div class="swiper-slide"><img img src="images/games/13.png"></div>
+      <div class="swiper-slide"><img img src="images/games/14.png"></div>
+      <div class="swiper-slide"><img img src="images/games/15.png"></div>
+      <div class="swiper-slide"><img img src="images/games/16.png"></div>
+      <div class="swiper-slide"><img img src="images/games/13.png"></div>
+      <div class="swiper-slide"><img img src="images/games/14.png"></div>
+      <div class="swiper-slide"><img img src="images/games/15.png"></div>
+      <div class="swiper-slide"><img img src="images/games/16.png"></div>
+    </div>
+  </div>
+  <div class="swiper vtx vt5" dir="rtl">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img img src="images/games/17.png"></div>
+      <div class="swiper-slide"><img img src="images/games/18.png"></div>
+      <div class="swiper-slide"><img img src="images/games/19.png"></div>
+      <div class="swiper-slide"><img img src="images/games/1.png"></div>
+      <div class="swiper-slide"><img img src="images/games/17.png"></div>
+      <div class="swiper-slide"><img img src="images/games/18.png"></div>
+      <div class="swiper-slide"><img img src="images/games/19.png"></div>
+      <div class="swiper-slide"><img img src="images/games/1.png"></div>
+      <div class="swiper-slide"><img img src="images/games/17.png"></div>
+      <div class="swiper-slide"><img img src="images/games/18.png"></div>
+      <div class="swiper-slide"><img img src="images/games/19.png"></div>
+      <div class="swiper-slide"><img img src="images/games/1.png"></div>
+    </div>
+  </div>
+</div>
